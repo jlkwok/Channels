@@ -1,0 +1,12 @@
+Error Handling:
+
+Created Barricade class.
+Barricade class contains checks for input commands which are valid, then parses numbers for use in main class.
+-allows program to continue when empty lines are inserted
+-tests for all integer input
+-allows program to continue when invalit inputs are entered
+-ignores invalid inputs
+
+
+Try/Catch on Scanner input
+- ends program once end of sequence is reached
